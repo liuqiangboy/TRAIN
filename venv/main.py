@@ -10,4 +10,4 @@ def calc_ent(x):
         ent -= p * logp
     return ent
 if __name__=='__main__':
-    print'hello world'
+    print'hello world123'
